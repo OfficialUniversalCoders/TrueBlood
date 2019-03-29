@@ -10,7 +10,7 @@
             ░        ░        ░  ░    ░          ░  ░    ░ ░      ░ ░     ░       
                                            ░                            ░         
 
-~ Coded by UniversalCoders
+~ Improved by UniversalCoders
 ~ https://github.com/OfficialUniversalCoders
 
 Version: v1.0
